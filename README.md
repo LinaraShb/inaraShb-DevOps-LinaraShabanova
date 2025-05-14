@@ -1,2 +1,2 @@
-# LinaraShb-DevOps-LinaraShabanova
+# DevOps-LinaraShabanova
 Привет я Линара!
